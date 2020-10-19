@@ -9,7 +9,7 @@ var dustbin;
 var scrap;
 function preload()
 {
-wall1=loadImage("sprites/dustbingreen.png");
+wall1=loadImage("dustbingreen.png");
 }
 
 function setup() {
